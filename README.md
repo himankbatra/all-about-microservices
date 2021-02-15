@@ -1,2 +1,2 @@
-# Microservices-With-Spring-Student-Files
-Student Files for Microservices with Spring course
+# Examples for Microservices
+Examples for Microservices
